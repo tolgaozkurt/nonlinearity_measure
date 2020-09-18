@@ -2,7 +2,7 @@ The main MATLAB function to be used for the computation of the nonlinearity meas
 
 All necessary info to run the code is given within the comments in nsamdf_nonlinear_measure.m.
 
-Please refer to and cite the paper below if you utilize this code in your work. All necessary info about the nonlinearity measure can be found in the paper.
+Please refer to and cite the paper below if you utilize this code in your work. All necessary info about the nonlinearity measure itself can be found in the paper:
 
 T.E. Özkurt, H. Akram, L. Zrinzo, P. Limousin, T. Foltynie, A. Oswal, V. Litvak, "Identification of nonlinear features in cortical and subcortical signals of Parkinson's disease patients", Neuroimage, 2020.
 
