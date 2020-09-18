@@ -1,6 +1,6 @@
 The main MATLAB function to be used for the computation of the nonlinearity measure is "nsamdf_nonlinear_measure.m", which calls the other subroutines NormedSingleCurveLengthWindowed.m & NormedSingleCurveLength.m.
 
-All necessary comments to run the code is given within the comments in nsamdf_nonlinear_measure.m.
+All necessary info to run the code is given within the comments in nsamdf_nonlinear_measure.m.
 
 Please refer to and cite the paper below if you utilize this code in your work. All necessary info about the nonlinearity measure can be found in the paper.
 
